@@ -7,6 +7,5 @@
         public string Surname { get; set; }
         public int Number { get; set; }
         public int Value { get; set; }
-        public Club ClubId { get; set; }
     }
 }
